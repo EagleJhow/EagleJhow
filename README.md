@@ -4,7 +4,7 @@
   <img align="center" alt="JHOW-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JHOW-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JHOW-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="JHOW-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/852700113607327798/1084566215877468320/giphy_1.gif">
+  <img align="right" alt="JHOW-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/852700113607327798/1084566708926283776/anonymous-.jpg">
 </div>
   
   ##
