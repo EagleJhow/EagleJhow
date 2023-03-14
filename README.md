@@ -1,6 +1,6 @@
 
 <div align="center">
-<h2> Seja, bem vindo! Eu sou o Jhonatan ou Jhow!</h2>
+<h2> Seja, bem vindo! Eu sou o Jhonatan!</h2>
 </div>
 </br>
 </br>
