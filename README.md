@@ -29,6 +29,6 @@
 
 <div align="center"> 
  
-  ![Snake animation](https://github.com/EagleJhow/EagleJhow/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/eaglejhow/eaglejhow/blob/output/github-contribution-grid-snake.svg)
  
 </div>
